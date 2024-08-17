@@ -8,8 +8,7 @@ def sueldoSemanal(sueldoS):
     sueldoS = horasT * pagoH
     return sueldoS
 
-def sueldoSemanalSMLV(sueldoSMLV):#extra 
-    sueldoSMLV = horasT * 5531
+def sueldoSemanalSMLV(sueldoSMLV):#extra :3
     return sueldoSMLV
 
 

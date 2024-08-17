@@ -8,7 +8,7 @@ def sueldoSemanal(sueldoS):
     sueldoS = horasT * pagoH
     return sueldoS
 
-def sueldoSemanalSMLV(sueldoSMLV):#extra :3
+def sueldoSemanalSMLV(sueldoSMLV):#extra 
     sueldoSMLV = horasT * 5531
     return sueldoSMLV
 
@@ -29,5 +29,6 @@ sueldoC= sueldoSemanal(horasT)
 sueldoCSMLV= sueldoSemanalSMLV(horasT)
 print ("El sueldo semanal a cobrar  es :", round(sueldoC, 2))
 print ("El sueldo SMLV semanal a cobrar  es :", round(sueldoCSMLV, 2))
+
 
 #CDBC

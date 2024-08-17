@@ -43,4 +43,5 @@ print("El área del triángulo es:", areaTriangulo)
 print("El área del rectángulo es:", areaRectangulo)
 print("El área general es:", areaGeneral)
 
+
 #CDBC
